@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from 'react';
-import { Checkbox, Button } from '@mui/material';
+import { Checkbox, Button, Slider } from '@mui/material';
 
 const CheckBoxReact = () => {
   const [allNames, setAllNames] = useState([]);
