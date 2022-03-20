@@ -3,6 +3,8 @@ import AutoCompleteReact from './components/AutoCompleteReact';
 import CheckBoxReact from './components/CheckBoxReact';
 import MusicPlayerSlider from './components/MusicPlayerSlider';
 import SimpleBackdrop from './components/SimpleBackdrop';
+import CustomNav from './components/CustomNav';
+import ResponsiveAppBar from './components/ResponsiveAppBar';
 
 function App() {
   return (
@@ -10,7 +12,9 @@ function App() {
       {/* <AutoCompleteReact /> */}
       {/* <CheckBoxReact /> */}
       {/* <MusicPlayerSlider /> */}
-      <SimpleBackdrop />
+      {/* <SimpleBackdrop /> */}
+      {/* <CustomNav /> */}
+      <ResponsiveAppBar />
     </>
   );
 }

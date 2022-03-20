@@ -1,3 +1,10 @@
-.MuiBackdrop-invisible {
-  background-color: rgba(255, 0, 0, 1);
+* {
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+}
+
+.nav-ele {
+  margin: 5px;
+  padding: 5px;
 }
