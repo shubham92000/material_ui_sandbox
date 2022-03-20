@@ -143,8 +143,8 @@ export default function MusicPlayerSlider() {
                 }`,
               },
               '&.Mui-active': {
-                width: 20,
-                height: 20,
+                width: 50,
+                height: 50,
               },
             },
             '& .MuiSlider-rail': {
